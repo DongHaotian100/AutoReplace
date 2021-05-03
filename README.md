@@ -1,4 +1,4 @@
-# Auto_replace小工具使用手册
+# Auto_Replace小工具使用手册
 
 ## 1.文件结构
 
